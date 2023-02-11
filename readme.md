@@ -1,12 +1,12 @@
-# ceterion Packaging Framework 1.0.14.0
+## Ceterion Packaging Framework 1.0.14.0
 
 
-## Synopsis
+# Synopsis
 
 A PowerShell module based packaging framework.
 
 This packaging framework contains parts of the PowerShell App Deployment Toolkit (Version 3.7.0) project from
-[http://psappdeploytoolkit.com/](http://psappdeploytoolkit.com/) with modifications, fixes, custom extensions 
+[https://psappdeploytoolkit.com/](https://psappdeploytoolkit.com/) with modifications, fixes, custom extensions 
 and new features.
 The modification includes a conversion from a simple included script into an PowerShell module and it's
 extended with some additional functions and variables we missed in the original implementation.
@@ -34,7 +34,7 @@ Please feel free to check these sways for additional information:
 
 ## Installation
 
-Run PackagingFrameworkSetup.exe
+Run ```PackagingFrameworkSetup.exe```
 
 ## Usage
 
